@@ -7,7 +7,7 @@
 <img src="https://github.com/guowenbin90/WSI_annotation/blob/main/figures/XML%20file%20from%20annotation.png" width=50% height=50%>
 
 ### Our objective is to convert annotations to OME TIFF format and JSON file. 
-Here are steps:
+Here are steps ([WSI_annotation.ipynb](https://github.com/guowenbin90/WSI_annotation/blob/main/WSI_annotation.ipynb)):
 1. Use lxml package to parse the separate annotation layers.
 2. Use the openslide package to read the image regions corresponding to annotations.
 3. Save the extracted image along with its boundary mask (1’s inside boundaries and 0’s outside).
