@@ -11,6 +11,6 @@ Here are steps ([WSI_annotation.ipynb](https://github.com/guowenbin90/WSI_annota
 
 <img src="https://github.com/guowenbin90/WSI_annotation/blob/main/figures/glom1.png" width=12% height=12%><img src="https://github.com/guowenbin90/WSI_annotation/blob/main/figures/mask1.png" width=12% height=12%><img src="https://github.com/guowenbin90/WSI_annotation/blob/main/figures/glom2.png" width=15% height=15%><img src="https://github.com/guowenbin90/WSI_annotation/blob/main/figures/mask2.png" width=15% height=15%><img src="https://github.com/guowenbin90/WSI_annotation/blob/main/figures/tubule.png" width=13% height=13%><img src="https://github.com/guowenbin90/WSI_annotation/blob/main/figures/tubule_mask.png" width=13% height=13%>
 
-### Here is the JSON file from given XML file.
+Here is the JSON file from given XML file.
 
-<img src="https://github.com/guowenbin90/WSI_annotation/blob/main/figures/XML%20file%20from%20annotation.png" width=50% height=50%>
+<img src="https://github.com/guowenbin90/WSI_annotation/blob/main/figures/JSON%20file.png" width=50% height=50%>
